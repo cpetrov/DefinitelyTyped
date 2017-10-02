@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "tabris": "^2.1.0"
+    }
+}
